@@ -28,8 +28,5 @@
   - [Steps for successful implementation of an AI-powered small business advisor](chapter-7-1.md)
   - [Best practices for integrating AI into small business operations](chapter-7-2.md)
   - [Addressing concerns and resistance to AI adoption](chapter-7-3.md)
-- [Conclusion](chapter-8.md)
-  - [Summary of key findings and takeaways](chapter-8-1.md)
-  - [Discussion of potential future developments in AI for small business management](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
