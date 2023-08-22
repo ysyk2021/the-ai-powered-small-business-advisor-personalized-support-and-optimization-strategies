@@ -1,5 +1,4 @@
-Inventory management with AI
-========================================================================================
+
 
 Inventory management is a critical part of small business management, and artificial intelligence (AI) can be a powerful tool for optimizing inventory processes. In this chapter, we will explore the benefits of using AI in inventory management and how small businesses can implement AI-powered inventory solutions.
 

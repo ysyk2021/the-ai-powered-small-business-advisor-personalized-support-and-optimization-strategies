@@ -1,5 +1,4 @@
-Discussion of Ethical Considerations When Using AI for Small Business Management
-=======================================================================================================================================================
+
 
 When using AI for small business management, there are several ethical considerations to keep in mind. In this chapter, we will explore some of the key ethical considerations that small business owners should be aware of when adopting AI.
 
