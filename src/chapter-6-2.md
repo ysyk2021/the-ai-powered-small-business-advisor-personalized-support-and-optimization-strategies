@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI technology, it is crucial to consider the potential biases that may be present in AI algorithms. In this chapter, we will explore how small business owners can address potential biases in AI algorithms.
 
 Understanding Bias in AI Algorithms

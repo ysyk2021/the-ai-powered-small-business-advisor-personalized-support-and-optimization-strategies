@@ -1,5 +1,4 @@
 
-
 While the adoption of artificial intelligence (AI) technology can offer significant advantages for small businesses, it is important to ensure that ethical considerations are taken into account. In this chapter, we will explore some of the potential ethical considerations associated with AI adoption for small businesses, and how to address them through transparency and accountability.
 
 Potential Ethical Considerations

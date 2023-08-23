@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is an umbrella term used to describe computer systems that can perform tasks that would typically require human intelligence, such as learning, reasoning, problem-solving, perception, and natural language processing. These systems use algorithms to analyze data and identify patterns, allowing them to make decisions and predictions with a high degree of accuracy.
 
 Types of AI

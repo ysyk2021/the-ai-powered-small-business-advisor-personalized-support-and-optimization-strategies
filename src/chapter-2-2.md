@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become an increasingly popular buzzword in the business world, promising to revolutionize the way we work. As a small business owner, it can be difficult to understand the different types of AI and how they can benefit your business. In this chapter, we will explore the three main types of AI: supervised, unsupervised, and reinforcement learning.
 
 Supervised Learning
