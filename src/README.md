@@ -10,3 +10,7 @@ By understanding the basics of AI technology and its capabilities, small busines
 The AI-Powered Small Business Advisor is an invaluable resource for entrepreneurs who want to optimize their operations and achieve long-term success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
