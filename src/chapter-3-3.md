@@ -1,5 +1,4 @@
-Chapter 17: Inventory Management with AI
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient inventory management is crucial for small businesses to optimize costs, meet customer demands, and streamline operations. AI-powered solutions can revolutionize inventory management by leveraging advanced algorithms to analyze historical data, predict demand, and optimize stock levels. In this chapter, we will explore how small businesses can harness the power of AI for effective inventory management.
 

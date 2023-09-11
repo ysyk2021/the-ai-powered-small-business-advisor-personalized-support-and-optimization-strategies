@@ -1,5 +1,4 @@
-Chapter 10: Optimizing Advertising Campaigns with AI
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can leverage AI to optimize their advertising campaigns. We will discuss the benefits of using AI in advertising, AI-powered techniques for campaign optimization, and strategies for implementing AI-driven optimizations to maximize advertising effectiveness.
 

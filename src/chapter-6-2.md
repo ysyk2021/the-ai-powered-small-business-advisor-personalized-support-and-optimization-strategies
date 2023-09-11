@@ -1,5 +1,4 @@
-Chapter 5: Addressing Potential Biases in AI Algorithms
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of addressing potential biases that may exist in AI algorithms and their impact on small businesses. We will explore the challenges associated with bias in AI, the consequences it can have on decision-making, and strategies to mitigate and address these biases.
 

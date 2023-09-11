@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Transparency and Accountability in AI Adoption
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of transparency and accountability in AI adoption for small businesses. We will explore the ethical implications of AI, the risks associated with opaque or biased AI systems, and the strategies for ensuring transparency and accountability in AI adoption.
 

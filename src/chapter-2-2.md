@@ -1,5 +1,4 @@
-Chapter 12: Types of AI: Supervised, Unsupervised, Reinforcement Learning
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their applications in small businesses. We will discuss supervised learning, unsupervised learning, and reinforcement learning, along with their respective strengths and use cases.
 

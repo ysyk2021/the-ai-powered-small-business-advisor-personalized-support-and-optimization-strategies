@@ -1,5 +1,4 @@
-Chapter 8: Discussion of Ethical Considerations When Using AI for Small Business Management
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the ethical considerations that small businesses need to keep in mind when using AI for management purposes. We will explore the potential benefits and challenges of AI adoption, as well as the key ethical considerations that entrepreneurs must consider.
 
